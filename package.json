@@ -1,0 +1,23 @@
+{
+	"name": "image-gallery-vanilla-es6",
+	"version": "1.0.0",
+	"description": "es6 JS image gallery",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "gh-pages"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zetdotcom/image-gallery-vanilla-es6.git"
+	},
+	"author": "michal",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zetdotcom/image-gallery-vanilla-es6/issues"
+	},
+	"homepage": "https://github.com/zetdotcom/image-gallery-vanilla-es6#readme",
+	"dependencies": {
+		"gh-pages": "^1.1.0"
+	}
+}
